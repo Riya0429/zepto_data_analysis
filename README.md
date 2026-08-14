@@ -16,7 +16,7 @@ Q4. Find all products where MRP is greater than ₹500 and discount is less than
 Q5. Identify the top 5 categories offering the highest average discount percentage.
 Q6. Find the price per gram for products above 100g and sort by best value.
 Q7. Group the products into categories like Low, Medium, Bulk.
-Q8. What is the Total Inventory Weight Per Category 
+Q8. What is the Total Inventory Weight Per Category  
 
 ####Example-
 Extracted the distinct categories of products exist in zepto. 
