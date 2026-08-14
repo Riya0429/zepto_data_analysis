@@ -21,7 +21,7 @@ Q8. What is the Total Inventory Weight Per Category
 ####Example-
 Extracted the distinct categories of products exist in zepto. 
 
-Category wise Dataset.png 
+![image alt](https://github.com/Riya0429/zepto_data_analysis/blob/94bc3cb4268fe714e836c9738f4035f42196d5be/Category%20wise%20Dataset.png) 
 
 Used the following syntax- 
 select distinct category, mrp, availableQuantity, discountedSellingPrice,
