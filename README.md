@@ -3,7 +3,7 @@
 Dataset used from Kaggle platform
 
 ##why used zepto?
-Zepto is India’s fastest-growing quick-commerce platform. 
+Zepto is India’s fastest-growing quick-commerce platform.  
 As e-commerce platforms became the emerging and trending way of dealing with purchases.
 The objective is to understand how these platforms manage, operates and function to meet the consumer demands.
 
